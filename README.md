@@ -12,3 +12,6 @@ This dashboard covers 5 indicators as mentionned below :
   - > **_Evolution of annual orders by country_**
   
   - > **_The last 5 orders for each country_**
+
+### - Result :
+![Report result image](./result.jpg)
